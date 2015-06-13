@@ -1,4 +1,4 @@
-int LED1 = 10, LED2 = 5, LED3 = 1;
+int LED1 = 4, LED2 = 6, LED3 = 8;
 
 void setup() 
 {

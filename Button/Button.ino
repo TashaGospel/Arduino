@@ -13,6 +13,6 @@ void loop()
   {
     state = 1 - state;
     digitalWrite(LED,state);
-    delay(1000);
+    delay(500);
   }
 }
